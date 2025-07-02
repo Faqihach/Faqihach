@@ -1,10 +1,8 @@
-<h4 align="left">Hi 👋! My name is Ahmad Fakih and I'm a Information Systems Student</h4>
-
-###
+<h2 align="left">Hi 👋! My name is Ahmad Fakih and I'm a Information Systems Student</h2>
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lhMXM1MTQ5ZTZ5bTFmN3A1dm1waHN2YThmZzVieHMzcDRlY2l1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
 
-###
+### 🛠 I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -24,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-####
+### 🌐 Socials
 
 <div align="left">
   <a href="https://www.instagram.com/faqihachh/" target="_blank">
@@ -35,16 +33,14 @@
   </a>
 </div>
 
-###
+### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faqihach&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 🐍 Contribution Graph
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Faqihach/Faqihach/output/snake.svg" alt="Snake animation" />
-
-###
