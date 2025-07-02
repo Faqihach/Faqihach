@@ -41,6 +41,4 @@
 
 ### 🐍 Contribution Graph
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Faqihach/Faqihach/output/snake.svg" alt="Snake animation" />
